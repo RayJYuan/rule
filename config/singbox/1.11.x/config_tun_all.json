@@ -456,7 +456,7 @@
       "outbounds": ["英国-手动", "英国-智选"]
     },
     {
-      "tag": "无界-手动",
+      "tag": "无界-故转",
       "type": "selector",
       "outbounds": ["{all}"],
       "filter": [{
@@ -477,12 +477,7 @@
       "tolerance": 50
     },
     {
-      "tag": "无界-故转",
-      "type": "selector",
-      "outbounds": ["无界-手动", "无界-智选"]
-    },
-    {
-      "tag": "红杏-手动",
+      "tag": "红杏-故转",
       "type": "selector",
       "outbounds": ["{all}"],
       "filter": [{
@@ -503,12 +498,7 @@
       "tolerance": 50
     },
     {
-      "tag": "红杏-故转",
-      "type": "selector",
-      "outbounds": ["红杏-手动", "红杏-智选"]
-    },
-    {
-      "tag": "火烧云-手动",
+      "tag": "火烧云-故转",
       "type": "selector",
       "outbounds": ["{all}"],
       "filter": [{
@@ -529,12 +519,7 @@
       "tolerance": 50
     },
     {
-      "tag": "火烧云-故转",
-      "type": "selector",
-      "outbounds": ["火烧云-手动", "火烧云-智选"]
-    },
-    {
-      "tag": "灵魂云-手动",
+      "tag": "灵魂云-故转",
       "type": "selector",
       "outbounds": ["{all}"],
       "filter": [{
@@ -555,12 +540,7 @@
       "tolerance": 50
     },
     {
-      "tag": "灵魂云-故转",
-      "type": "selector",
-      "outbounds": ["灵魂云-手动", "灵魂云-智选"]
-    },
-    {
-      "tag": "归股云-手动",
+      "tag": "归股云-故转",
       "type": "selector",
       "outbounds": ["{all}"],
       "filter": [{
@@ -581,12 +561,7 @@
       "tolerance": 50
     },
     {
-      "tag": "归股云-故转",
-      "type": "selector",
-      "outbounds": ["归股云-手动", "归股云-智选"]
-    },
-    {
-      "tag": "猫耳-手动",
+      "tag": "猫耳-故转",
       "type": "selector",
       "outbounds": ["{all}"],
       "filter": [{
@@ -607,12 +582,7 @@
       "tolerance": 50
     },
     {
-      "tag": "猫耳-故转",
-      "type": "selector",
-      "outbounds": ["猫耳-手动", "猫耳-智选"]
-    },
-    {
-      "tag": "快猫-手动",
+      "tag": "快猫-故转",
       "type": "selector",
       "outbounds": ["{all}"],
       "filter": [{
@@ -633,12 +603,7 @@
       "tolerance": 50
     },
     {
-      "tag": "快猫-故转",
-      "type": "selector",
-      "outbounds": ["快猫-手动", "快猫-智选"]
-    },
-    {
-      "tag": "牛逼-手动",
+      "tag": "牛逼-故转",
       "type": "selector",
       "outbounds": ["{all}"],
       "filter": [{
@@ -659,12 +624,7 @@
       "tolerance": 50
     },
     {
-      "tag": "牛逼-故转",
-      "type": "selector",
-      "outbounds": ["牛逼-手动", "牛逼-智选"]
-    },
-    {
-      "tag": "糖果-手动",
+      "tag": "糖果-故转",
       "type": "selector",
       "outbounds": ["{all}"],
       "filter": [{
@@ -685,12 +645,7 @@
       "tolerance": 50
     },
     {
-      "tag": "糖果-故转",
-      "type": "selector",
-      "outbounds": ["糖果-手动", "糖果-智选"]
-    },
-    {
-      "tag": "Thua-手动",
+      "tag": "Thua-故转",
       "type": "selector",
       "outbounds": ["{all}"],
       "filter": [{
@@ -711,12 +666,7 @@
       "tolerance": 50
     },
     {
-      "tag": "Thua-故转",
-      "type": "selector",
-      "outbounds": ["Thua-手动", "Thua-智选"]
-    },
-    {
-      "tag": "其他-手动",
+      "tag": "其他-故转",
       "type": "selector",
       "outbounds": ["{all}"],
       "filter": [{
@@ -735,11 +685,6 @@
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
-    },
-    {
-      "tag": "其他-故转",
-      "type": "selector",
-      "outbounds": ["其他-手动", "其他-智选"]
     }
   ],
   
