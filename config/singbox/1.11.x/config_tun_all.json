@@ -693,8 +693,7 @@
       },
       {
         "rule_set": "Telegram-IP",
-        "outbound": "Telegram",
-        "disable_cache": true
+        "outbound": "Telegram"
       },
       {
         "rule_set": "Twitter-Domain",
@@ -750,8 +749,7 @@
       },
       {
         "rule_set": "Netflix-IP",
-        "outbound": "Netflix",
-        "disable_cache": true
+        "outbound": "Netflix"
       },
       {
         "rule_set": "Disney-Domain",
@@ -799,8 +797,7 @@
       },
       {
         "rule_set": "Google-IP",
-        "outbound": "Google",
-        "disable_cache": true
+        "outbound": "Google"
       },
       {
         "rule_set": "Nvidia-Domain",
@@ -828,8 +825,7 @@
       },
       {
         "ip_cidr": "65.21.206.96/32",
-        "outbound": "All-in-One.v2",
-        "disable_cache": true
+        "outbound": "All-in-One.v2"
       },
       {
         "domain": "hongxingyunmovie.vip",
@@ -873,8 +869,7 @@
       },
       {
         "rule_set": "China-IP",
-        "outbound": "国内",
-        "disable_cache": true
+        "outbound": "国内"
       },
       {
         "rule_set": "Private-Domain",
