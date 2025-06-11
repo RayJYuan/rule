@@ -967,14 +967,14 @@
     {
       "tag": "Claude-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list",
       "download_detour": "所有-智选"
     },
     {
       "tag": "Meta AI-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/MetaAi.list",
       "download_detour": "所有-智选"
     },
@@ -1023,7 +1023,7 @@
     {
       "tag": "WhatsApp-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Whatsapp/Whatsapp.list",
       "download_detour": "所有-智选"
     },
@@ -1142,42 +1142,42 @@
     {
       "tag": "Epic-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list",
       "download_detour": "所有-智选"
     },
     {
       "tag": "EA-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list",
       "download_detour": "所有-智选"
     },
     {
       "tag": "Blizzard-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list",
       "download_detour": "所有-智选"
     },
     {
       "tag": "UBI-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list",
       "download_detour": "所有-智选"
     },
     {
       "tag": "Sony-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list",
       "download_detour": "所有-智选"
     },
     {
       "tag": "Nintend-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list",
       "download_detour": "所有-智选"
     },
@@ -1198,28 +1198,28 @@
     {
       "tag": "TEST-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Check.list",
       "download_detour": "所有-智选"
     },
     {
       "tag": "Proxy-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Proxy.list",
       "download_detour": "所有-智选"
     },
     {
       "tag": "Globe-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list",
       "download_detour": "所有-智选"
     },
     {
       "tag": "Direct-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Direct.list",
       "download_detour": "所有-智选"
     },
@@ -1247,14 +1247,14 @@
     {
       "tag": "Block-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Block.list",
       "download_detour": "所有-智选"
     },
     {
       "tag": "Nvidia-Domain",
       "type": "remote",
-      "format": "text",
+      "format": "source",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nvidia/Nvidia.list",
       "download_detour": "所有-智选"
     }
