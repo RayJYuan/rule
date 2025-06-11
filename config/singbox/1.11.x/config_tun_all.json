@@ -905,14 +905,14 @@
       "tag": "Claude-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Claude/Claude.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Meta AI-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/MetaAi.list",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Facebook/Facebook.srs",
       "download_detour": "所有-手动"
     },
     {
@@ -961,7 +961,7 @@
       "tag": "WhatsApp-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Whatsapp/Whatsapp.list",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Whatsapp/Whatsapp.srs",
       "download_detour": "所有-手动"
     },
     {
@@ -1080,42 +1080,42 @@
       "tag": "Epic-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Epic/Epic.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "EA-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/EA/EA.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Blizzard-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Blizzard/Blizzard.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "UBI-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/UBI/UBI.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Sony-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Sony/Sony.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Nintend-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Nintendo/Nintendo.srs",
       "download_detour": "所有-手动"
     },
     {
@@ -1143,14 +1143,14 @@
       "tag": "Proxy-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Proxy.list",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Proxy/Proxy.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Globe-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Global/Global.srs",
       "download_detour": "所有-手动"
     },
     { "tag": "geosite-geolocation-!cn", "type": "remote", "format": "binary", "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/geolocation-!cn.srs", "download_detour": "所有-手动" },
@@ -1180,13 +1180,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/private.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "Block-Domain",
-      "type": "remote",
-      "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Block.list",
       "download_detour": "所有-手动"
     }
   ]
