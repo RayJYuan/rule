@@ -882,7 +882,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/openai.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -890,7 +889,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -898,7 +896,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/MetaAi.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -906,7 +903,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/perplexity.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -914,7 +910,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-!cn.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -922,7 +917,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/github.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -930,7 +924,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/telegram.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -938,7 +931,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/telegram.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -946,7 +938,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/x.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -954,7 +945,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Whatsapp/Whatsapp.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -962,7 +952,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/facebook.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -970,7 +959,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/amazon.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -978,7 +966,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/apple-cn.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -986,7 +973,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/apple.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -994,7 +980,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/microsoft.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1002,7 +987,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/okx.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1010,7 +994,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/bybit.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1018,7 +1001,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/binance.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1026,7 +1008,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1034,7 +1015,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/tiktok.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1042,7 +1022,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/netflix.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1050,7 +1029,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/netflix.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1058,7 +1036,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/disney.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1066,7 +1043,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/hbo.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1074,7 +1050,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/spotify.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1082,7 +1057,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/steam.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1090,7 +1064,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1098,7 +1071,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1106,7 +1078,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1114,7 +1085,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1122,7 +1092,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1130,7 +1099,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1138,7 +1106,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/google.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1146,7 +1113,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/google.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1154,7 +1120,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Check.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1162,7 +1127,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Proxy.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1170,7 +1134,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1178,7 +1141,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Direct.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1186,7 +1148,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/cn.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1194,7 +1155,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/cn.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1202,7 +1162,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/private.srs",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1210,7 +1169,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Block.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     },
     {
@@ -1218,7 +1176,6 @@
       "type": "remote",
       "format": "text",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nvidia/Nvidia.list",
-      "interval": 86400,
       "download_detour": "所有-智选"
     }
   ]
