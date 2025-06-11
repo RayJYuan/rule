@@ -1195,14 +1195,14 @@
       "tag": "Block-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Block.list",
+      "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Block.list",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Nvidia-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nvidia/Nvidia.list",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nvidia/Nvidia.list",
       "download_detour": "所有-手动"
     }
   ]
