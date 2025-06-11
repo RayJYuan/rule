@@ -458,12 +458,20 @@
     {
       "tag": "无界-手动",
       "type": "selector",
-      "outbounds": ["无界"]
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["无界"]
+      }]
     },
     {
       "tag": "无界-智选",
       "type": "urltest",
-      "outbounds": ["无界"],
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["无界"]
+      }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
@@ -476,12 +484,20 @@
     {
       "tag": "红杏-手动",
       "type": "selector",
-      "outbounds": ["红杏"]
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["红杏"]
+      }]
     },
     {
       "tag": "红杏-智选",
       "type": "urltest",
-      "outbounds": ["红杏"],
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["红杏"]
+      }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
@@ -494,12 +510,20 @@
     {
       "tag": "火烧云-手动",
       "type": "selector",
-      "outbounds": ["火烧云"]
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["火烧云"]
+      }]
     },
     {
       "tag": "火烧云-智选",
       "type": "urltest",
-      "outbounds": ["火烧云"],
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["火烧云"]
+      }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
@@ -512,12 +536,20 @@
     {
       "tag": "灵魂云-手动",
       "type": "selector",
-      "outbounds": ["灵魂云"]
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["灵魂云"]
+      }]
     },
     {
       "tag": "灵魂云-智选",
       "type": "urltest",
-      "outbounds": ["灵魂云"],
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["灵魂云"]
+      }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
@@ -530,12 +562,20 @@
     {
       "tag": "归股云-手动",
       "type": "selector",
-      "outbounds": ["归股云"]
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["归股云"]
+      }]
     },
     {
       "tag": "归股云-智选",
       "type": "urltest",
-      "outbounds": ["归股云"],
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["归股云"]
+      }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
@@ -548,12 +588,20 @@
     {
       "tag": "猫耳-手动",
       "type": "selector",
-      "outbounds": ["猫耳"]
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["猫耳"]
+      }]
     },
     {
       "tag": "猫耳-智选",
       "type": "urltest",
-      "outbounds": ["猫耳"],
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["猫耳"]
+      }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
@@ -566,12 +614,20 @@
     {
       "tag": "快猫-手动",
       "type": "selector",
-      "outbounds": ["快猫"]
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["快猫"]
+      }]
     },
     {
       "tag": "快猫-智选",
       "type": "urltest",
-      "outbounds": ["快猫"],
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["快猫"]
+      }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
@@ -584,12 +640,20 @@
     {
       "tag": "牛逼-手动",
       "type": "selector",
-      "outbounds": ["牛逼"]
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["牛逼"]
+      }]
     },
     {
       "tag": "牛逼-智选",
       "type": "urltest",
-      "outbounds": ["牛逼"],
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["牛逼"]
+      }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
@@ -602,12 +666,20 @@
     {
       "tag": "糖果-手动",
       "type": "selector",
-      "outbounds": ["糖果"]
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["糖果"]
+      }]
     },
     {
       "tag": "糖果-智选",
       "type": "urltest",
-      "outbounds": ["糖果"],
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["糖果"]
+      }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
@@ -620,12 +692,20 @@
     {
       "tag": "Thua-手动",
       "type": "selector",
-      "outbounds": ["Thua"]
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["Thua"]
+      }]
     },
     {
       "tag": "Thua-智选",
       "type": "urltest",
-      "outbounds": ["Thua"],
+      "outbounds": ["{all}"],
+      "filter": [{
+        "action": "include",
+        "keywords": ["Thua"]
+      }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
