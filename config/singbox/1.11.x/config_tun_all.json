@@ -461,7 +461,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["无界"]
+        "keywords": "无界"
       }]
     },
     {
@@ -470,7 +470,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["无界"]
+        "keywords": "无界"
       }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -482,7 +482,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["红杏"]
+        "keywords": "红杏"
       }]
     },
     {
@@ -491,7 +491,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["红杏"]
+        "keywords": "红杏"
       }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -503,7 +503,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["火烧云"]
+        "keywords": "火烧云"
       }]
     },
     {
@@ -512,7 +512,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["火烧云"]
+        "keywords": "火烧云"
       }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -524,7 +524,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["灵魂云"]
+        "keywords": "灵魂云"
       }]
     },
     {
@@ -533,7 +533,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["灵魂云"]
+        "keywords": "灵魂云"
       }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -545,7 +545,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["归股云"]
+        "keywords": "归股云"
       }]
     },
     {
@@ -554,7 +554,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["归股云"]
+        "keywords": "归股云"
       }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -566,7 +566,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["猫耳"]
+        "keywords": "猫耳"
       }]
     },
     {
@@ -575,7 +575,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["猫耳"]
+        "keywords": "猫耳"
       }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -587,7 +587,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["快猫"]
+        "keywords": "快猫"
       }]
     },
     {
@@ -596,7 +596,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["快猫"]
+        "keywords": "快猫"
       }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -608,7 +608,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["牛逼"]
+        "keywords": "牛逼"
       }]
     },
     {
@@ -617,7 +617,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["牛逼"]
+        "keywords": "牛逼"
       }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -629,7 +629,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["糖果"]
+        "keywords": "糖果"
       }]
     },
     {
@@ -638,7 +638,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["糖果"]
+        "keywords": "糖果"
       }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -650,7 +650,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["Thua"]
+        "keywords": "Thua"
       }]
     },
     {
@@ -659,7 +659,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "include",
-        "keywords": ["Thua"]
+        "keywords": "Thua"
       }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -671,7 +671,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "exclude",
-        "keywords": ["直连", "拒绝", "广港", "香港", "HK", "Hong Kong", "HongKong", "广台", "台湾", "台灣", "TW", "Tai Wan", "TaiWan", "Taiwan", "广日", "日本", "JP", "川日", "东京", "大阪", "泉日", "埼玉", "沪日", "深日", "Japan", "广新", "新加坡", "SG", "坡", "狮城", "Singapore", "广韩", "韩国", "韓國", "KR", "首尔", "春川", "Korea", "广美", "美", "US", "纽约", "波特兰", "达拉斯", "俄勒", "凤凰城", "费利蒙", "拉斯", "洛杉", "圣何塞", "圣克拉", "西雅", "芝加", "United States", "英国", "UK", "United Kingdom", "伦敦", "英", "London"]
+        "keywords": ["直连|拒绝|广港|香港|HK|Hong Kong|HongKong|广台|台湾|台灣|TW|Tai Wan|TaiWan|Taiwan|广日|日本|JP|川日|东京|大阪|泉日|埼玉|沪日|深日|Japan|广新|新加坡|SG|坡|狮城|Singapore|广韩|韩国|韓國|KR|首尔|春川|Korea|广美|美|US|纽约|波特兰|达拉斯|俄勒|凤凰城|费利蒙|拉斯|洛杉|圣何塞|圣克拉|西雅|芝加|United States|英国|UK|United Kingdom|伦敦|英|London"]
       }]
     },
     {
@@ -680,7 +680,7 @@
       "outbounds": ["{all}"],
       "filter": [{
         "action": "exclude",
-        "keywords": ["直连", "拒绝", "广港", "香港", "HK", "Hong Kong", "HongKong", "广台", "台湾", "台灣", "TW", "Tai Wan", "TaiWan", "Taiwan", "广日", "日本", "JP", "川日", "东京", "大阪", "泉日", "埼玉", "沪日", "深日", "Japan", "广新", "新加坡", "SG", "坡", "狮城", "Singapore", "广韩", "韩国", "韓國", "KR", "首尔", "春川", "Korea", "广美", "美", "US", "纽约", "波特兰", "达拉斯", "俄勒", "凤凰城", "费利蒙", "拉斯", "洛杉", "圣何塞", "圣克拉", "西雅", "芝加", "United States", "英国", "UK", "United Kingdom", "伦敦", "英", "London"]
+        "keywords": ["直连|拒绝|广港|香港|HK|Hong Kong|HongKong|广台|台湾|台灣|TW|Tai Wan|TaiWan|Taiwan|广日|日本|JP|川日|东京|大阪|泉日|埼玉|沪日|深日|Japan|广新|新加坡|SG|坡|狮城|Singapore|广韩|韩国|韓國|KR|首尔|春川|Korea|广美|美|US|纽约|波特兰|达拉斯|俄勒|凤凰城|费利蒙|拉斯|洛杉|圣何塞|圣克拉|西雅|芝加|United States|英国|UK|United Kingdom|伦敦|英|London"]
       }],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
