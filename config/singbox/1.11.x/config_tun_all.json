@@ -760,6 +760,15 @@
         "outbound": "Test"
       },
       {
+        "domain": [
+          "domain:adobe.com",
+          "domain:adobedtm.com",
+          "domain:adobe.io",
+          "domain:omtrdc.net"
+        ],
+        "outbound": "Block"
+      },
+      {
         "domain": "cf.yunti.online",
         "outbound": "All-in-One.v2"
       },
@@ -865,7 +874,7 @@
       "tag": "Github-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/github.srs",
+      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/GitHub/GitHub.srs",
       "download_detour": "所有-手动"
     },
     {
@@ -1028,13 +1037,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/private.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "Block-Domain",
-      "type": "remote",
-      "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Block.list",
       "download_detour": "所有-手动"
     }
   ]
