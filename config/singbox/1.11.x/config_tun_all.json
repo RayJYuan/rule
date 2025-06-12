@@ -204,27 +204,6 @@
     },
     {
       "type": "selector",
-      "tag": "Perplexity",
-      "outbounds": [
-        "直连",
-        "所有-手动",
-        "所有-智选",
-        "IPV6-故转",
-        "IPV6-智选",
-        "香港-故转",
-        "香港-智选",
-        "台湾-故转",
-        "台湾-智选",
-        "日本-故转",
-        "新加坡-故转",
-        "韩国-故转",
-        "美国-故转",
-        "其他-故转",
-        "拒绝"
-      ]
-    },
-    {
-      "type": "selector",
       "tag": "GitHub",
       "outbounds": [
         "直连",
@@ -1034,10 +1013,6 @@
         "outbound": "Meta AI"
       },
       {
-        "rule_set": "Perplexity-Domain",
-        "outbound": "Perplexity"
-      },
-      {
         "rule_set": "Github-Domain",
         "outbound": "GitHub"
       },
@@ -1203,13 +1178,6 @@
         "type": "remote",
         "format": "source",
         "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/MetaAi.list",
-        "download_detour": "所有-手动"
-      },
-      {
-        "tag": "Perplexity-Domain",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/perplexity.srs",
         "download_detour": "所有-手动"
       },
       {
