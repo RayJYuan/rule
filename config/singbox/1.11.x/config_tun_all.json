@@ -692,10 +692,6 @@
         "outbound": "Telegram"
       },
       {
-        "rule_set": "Telegram-IP",
-        "outbound": "Telegram"
-      },
-      {
         "rule_set": "Twitter-Domain",
         "outbound": "Twitter(X)"
       },
@@ -828,10 +824,6 @@
       {
         "rule_set": "China-IP",
         "outbound": "国内"
-      },
-      {
-        "rule_set": "Private-Domain",
-        "outbound": "国内"
       }
     ],
   "rule_set": [
@@ -874,21 +866,14 @@
       "tag": "Github-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/GitHub/GitHub.srs",
+      "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/GitHub/GitHub.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Telegram-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/telegram.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "Telegram-IP",
-      "type": "remote",
-      "format": "binary",
-      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/telegram.srs",
+      "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/Telegram/Telegram.srs",
       "download_detour": "所有-手动"
     },
     {
@@ -937,7 +922,7 @@
       "tag": "Youtube-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs",
+      "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/YouTube/YouTube.srs",
       "download_detour": "所有-手动"
     },
     {
@@ -1030,13 +1015,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/cn.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "Private-Domain",
-      "type": "remote",
-      "format": "binary",
-      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/private.srs",
       "download_detour": "所有-手动"
     }
   ]
