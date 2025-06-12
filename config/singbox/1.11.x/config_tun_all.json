@@ -838,7 +838,7 @@
       "tag": "Claude-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list",
+      "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/Claude/Claude.srs",
       "download_detour": "所有-手动"
     },
     {
@@ -1007,14 +1007,14 @@
       "tag": "China-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/cn.srs",
+      "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/China/China.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "China-IP",
       "type": "remote",
       "format": "binary",
-      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/cn.srs",
+      "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/ChinaIPs/ChinaIPs.srs",
       "download_detour": "所有-手动"
     }
   ]
