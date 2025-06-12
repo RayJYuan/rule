@@ -831,7 +831,7 @@
       "tag": "ChatGPT-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/openai.srs",
+      "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/OpenAI/OpenAI.srs",
       "download_detour": "所有-手动"
     },
     {
@@ -859,14 +859,14 @@
       "tag": "AI-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-!cn.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-!cn.json",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Github-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/GitHub/GitHub.srs",
+      "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/refs/heads/main/rule/GitHub/GitHub.json",
       "download_detour": "所有-手动"
     },
     {
@@ -964,7 +964,7 @@
       "tag": "Spotify-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/spotify.srs",
+      "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/Spotify/Spotify.srs",
       "download_detour": "所有-手动"
     },
     {
