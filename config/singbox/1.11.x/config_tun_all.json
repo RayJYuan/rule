@@ -1188,14 +1188,14 @@
         "tag": "ChatGPT-Domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/OpenAI/OpenAI.srs",
+        "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/refs/heads/main/rule/OpenAI/OpenAI.json",
         "download_detour": "所有-手动"
       },
       {
         "tag": "Claude-Domain",
         "type": "remote",
         "format": "source",
-        "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/Claude/Claude.srs",
+        "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/Claude/Claude.json",
         "download_detour": "所有-手动"
       },
       {
@@ -1230,7 +1230,7 @@
         "tag": "Telegram-Domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/Telegram/Telegram.srs",
+        "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/Telegram/Telegram.json",
         "download_detour": "所有-手动"
       },
       {
