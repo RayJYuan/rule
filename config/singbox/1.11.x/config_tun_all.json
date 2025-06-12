@@ -839,35 +839,35 @@
       "tag": "ChatGPT-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/openai.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/openai.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Claude-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Meta AI-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/MetaAi.list",
+      "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/MetaAi.list",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Perplexity-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/perplexity.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/perplexity.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "AI-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-!cn.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-!cn.srs",
       "download_detour": "所有-手动"
     },
     {
@@ -881,162 +881,162 @@
       "tag": "Telegram-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/telegram.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/telegram.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Telegram-IP",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/telegram.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/telegram.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Twitter-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/x.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/x.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Facebook-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/facebook.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/facebook.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Amazon-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/amazon.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/amazon.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Apple-CN-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/apple-cn.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/apple-cn.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Apple-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/apple.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/apple.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Microsoft-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/microsoft.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/microsoft.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Youtube-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "TikTok-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/tiktok.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/tiktok.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Netflix-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/netflix.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/netflix.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Netflix-IP",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/netflix.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/netflix.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Disney-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/disney.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/disney.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "HBO-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/hbo.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/hbo.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Spotify-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/spotify.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/spotify.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Google-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/google.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/google.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Google-IP",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/google.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/google.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "TEST-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Check.list",
+      "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Check.list",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Globe-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list",
       "download_detour": "所有-手动"
     },
-    { "tag": "geosite-geolocation-!cn", "type": "remote", "format": "binary", "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/geolocation-!cn.srs", "download_detour": "所有-手动" },
+    { "tag": "geosite-geolocation-!cn", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/geolocation-!cn.srs", "download_detour": "所有-手动" },
     {
       "tag": "Direct-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Direct.list",
+      "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Direct.list",
       "download_detour": "所有-手动"
     },
     {
       "tag": "China-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/cn.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/cn.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "China-IP",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/cn.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/cn.srs",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Private-Domain",
       "type": "remote",
       "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/private.srs",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/private.srs",
       "download_detour": "所有-手动"
     }
   ]
