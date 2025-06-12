@@ -1009,7 +1009,10 @@
         "outbound": "Claude"
       },
       {
-        "rule_set": "Meta AI-Domain",
+        "domain_suffix": [
+          "meta.ai",
+          "metademolab.com"
+        ],
         "outbound": "Meta AI"
       },
       {
@@ -1081,7 +1084,58 @@
         "outbound": "Google"
       },
       {
-        "rule_set": "TEST-Domain",
+        "ip_cidr": [
+          "142.251.215.0/24"
+        ],
+        "outbound": "Test"
+      },
+      {
+        "domain_suffix": [
+          "vultr.com",
+          "test-ipv6.com",
+          "ipw.cn",
+          "fast.com",
+          "speedcheck.org",
+          "speedtest.net",
+          "speedtest.cn",
+          "ustc.edu.cn",
+          "dnscheck.tools",
+          "whoer.net",
+          "browserleaks.com",
+          "browserleaks.org",
+          "browserleaks.net",
+          "dnsleaktest.org",
+          "1-b.net",
+          "workers.dev",
+          "jsonp-ip.com",
+          "sspanel.net",
+          "dnsleaktest.com",
+          "browserscan.net",
+          "surfshark.com",
+          "surfsharkdns.com",
+          "ip-api.com",
+          "ipleak.net",
+          "ip-score.com",
+          "888005.xyz",
+          "incolumitas.com",
+          "null-addr.com",
+          "null-addr.net",
+          "null-addr.org",
+          "null-addr.biz",
+          "null-addr.info",
+          "addr.tools",
+          "ifconfig.me",
+          "ip125.com",
+          "skk.moe",
+          "ip111.cn",
+          "ping0.cc"
+        ],
+        "outbound": "Test"
+      },
+      {
+        "domain": [
+          "speed.cloudflare.com"
+        ],
         "outbound": "Test"
       },
       {
@@ -1162,7 +1216,7 @@
       {
         "tag": "ChatGPT-Domain",
         "type": "remote",
-        "format": "binary",
+        "format": "source",
         "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/refs/heads/main/rule/OpenAI/OpenAI.json",
         "download_detour": "所有-手动"
       },
@@ -1174,30 +1228,23 @@
         "download_detour": "所有-手动"
       },
       {
-        "tag": "Meta AI-Domain",
-        "type": "remote",
-        "format": "source",
-        "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/MetaAi.list",
-        "download_detour": "所有-手动"
-      },
-      {
         "tag": "AI-Domain",
         "type": "remote",
-        "format": "binary",
+        "format": "source",
         "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-!cn.json",
         "download_detour": "所有-手动"
       },
       {
         "tag": "Github-Domain",
         "type": "remote",
-        "format": "binary",
+        "format": "source",
         "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/refs/heads/main/rule/GitHub/GitHub.json",
         "download_detour": "所有-手动"
       },
       {
         "tag": "Telegram-Domain",
         "type": "remote",
-        "format": "binary",
+        "format": "source",
         "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/Telegram/Telegram.json",
         "download_detour": "所有-手动"
       },
@@ -1307,17 +1354,10 @@
         "download_detour": "所有-手动"
       },
       {
-        "tag": "TEST-Domain",
-        "type": "remote",
-        "format": "source",
-        "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Check.list",
-        "download_detour": "所有-手动"
-      },
-      {
         "tag": "Globe-Domain",
         "type": "remote",
         "format": "source",
-        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list",
+        "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/8d52f93a8f389e0e379d7a704477c1109ac8589b/rule/Proxy/Proxy.json",
         "download_detour": "所有-手动"
       },
       {
@@ -1331,7 +1371,14 @@
         "tag": "Direct-Domain",
         "type": "remote",
         "format": "source",
-        "url": "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Direct.list",
+        "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/8d52f93a8f389e0e379d7a704477c1109ac8589b/rule/China/China.json",
+        "download_detour": "所有-手动"
+      },
+      {
+        "tag": "NTPService-Domain",
+        "type": "remote",
+        "format": "source",
+        "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/8d52f93a8f389e0e379d7a704477c1109ac8589b/rule/NTPService/NTPService.json",
         "download_detour": "所有-手动"
       },
       {
@@ -1344,7 +1391,7 @@
       {
         "tag": "China-IP",
         "type": "remote",
-        "format": "binary",
+        "format": "source",
         "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/ChinaIPs/ChinaIPs.json",
         "download_detour": "所有-手动"
       }
