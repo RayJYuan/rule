@@ -123,22 +123,7 @@
     },
     {
       "type": "selector",
-      "tag": "WhatsApp",
-      "outbounds": ["直连", "所有-手动", "所有-智选", "IPV6-故转", "IPV6-智选", "香港-故转", "香港-智选", "台湾-故转", "台湾-智选", "日本-故转", "新加坡-故转", "韩国-故转", "美国-故转", "火烧云-故转", "火烧云-智选", "灵魂云-故转", "灵魂云-智选", "归股云-故转", "归股云-智选", "猫耳-故转", "猫耳-智选", "快猫-故转", "快猫-智选", "牛逼-故转", "牛逼-智选", "红杏-故转", "红杏-智选", "糖果-故转", "糖果-智选", "Thua-故转", "Thua-智选", "无界-故转", "无界-智选", "其他-故转", "拒绝"]
-    },
-    {
-      "type": "selector",
       "tag": "Facebook",
-      "outbounds": ["直连", "所有-手动", "所有-智选", "IPV6-故转", "IPV6-智选", "香港-故转", "香港-智选", "台湾-故转", "台湾-智选", "日本-故转", "新加坡-故转", "韩国-故转", "美国-故转", "火烧云-故转", "火烧云-智选", "灵魂云-故转", "灵魂云-智选", "归股云-故转", "归股云-智选", "猫耳-故转", "猫耳-智选", "快猫-故转", "快猫-智选", "牛逼-故转", "牛逼-智选", "红杏-故转", "红杏-智选", "糖果-故转", "糖果-智选", "Thua-故转", "Thua-智选", "无界-故转", "无界-智选", "其他-故转", "拒绝"]
-    },
-    {
-      "type": "selector",
-      "tag": "Steam",
-      "outbounds": ["直连", "所有-手动", "所有-智选", "IPV6-故转", "IPV6-智选", "香港-故转", "香港-智选", "台湾-故转", "台湾-智选", "日本-故转", "新加坡-故转", "韩国-故转", "美国-故转", "火烧云-故转", "火烧云-智选", "灵魂云-故转", "灵魂云-智选", "归股云-故转", "归股云-智选", "猫耳-故转", "猫耳-智选", "快猫-故转", "快猫-智选", "牛逼-故转", "牛逼-智选", "红杏-故转", "红杏-智选", "糖果-故转", "糖果-智选", "Thua-故转", "Thua-智选", "无界-故转", "无界-智选", "其他-故转", "拒绝"]
-    },
-    {
-      "type": "selector",
-      "tag": "Game",
       "outbounds": ["直连", "所有-手动", "所有-智选", "IPV6-故转", "IPV6-智选", "香港-故转", "香港-智选", "台湾-故转", "台湾-智选", "日本-故转", "新加坡-故转", "韩国-故转", "美国-故转", "火烧云-故转", "火烧云-智选", "灵魂云-故转", "灵魂云-智选", "归股云-故转", "归股云-智选", "猫耳-故转", "猫耳-智选", "快猫-故转", "快猫-智选", "牛逼-故转", "牛逼-智选", "红杏-故转", "红杏-智选", "糖果-故转", "糖果-智选", "Thua-故转", "Thua-智选", "无界-故转", "无界-智选", "其他-故转", "拒绝"]
     },
     {
@@ -169,11 +154,6 @@
     {
       "type": "selector",
       "tag": "Spotify",
-      "outbounds": ["直连", "所有-手动", "所有-智选", "IPV6-故转", "IPV6-智选", "香港-故转", "香港-智选", "台湾-故转", "台湾-智选", "日本-故转", "新加坡-故转", "韩国-故转", "美国-故转", "火烧云-故转", "火烧云-智选", "灵魂云-故转", "灵魂云-智选", "归股云-故转", "归股云-智选", "猫耳-故转", "猫耳-智选", "快猫-故转", "快猫-智选", "牛逼-故转", "牛逼-智选", "红杏-故转", "红杏-智选", "糖果-故转", "糖果-智选", "Thua-故转", "Thua-智选", "无界-故转", "无界-智选", "其他-故转", "拒绝"]
-    },
-    {
-      "type": "selector",
-      "tag": "Crypto",
       "outbounds": ["直连", "所有-手动", "所有-智选", "IPV6-故转", "IPV6-智选", "香港-故转", "香港-智选", "台湾-故转", "台湾-智选", "日本-故转", "新加坡-故转", "韩国-故转", "美国-故转", "火烧云-故转", "火烧云-智选", "灵魂云-故转", "灵魂云-智选", "归股云-故转", "归股云-智选", "猫耳-故转", "猫耳-智选", "快猫-故转", "快猫-智选", "牛逼-故转", "牛逼-智选", "红杏-故转", "红杏-智选", "糖果-故转", "糖果-智选", "Thua-故转", "Thua-智选", "无界-故转", "无界-智选", "其他-故转", "拒绝"]
     },
     {
@@ -720,10 +700,6 @@
         "outbound": "Twitter(X)"
       },
       {
-        "rule_set": "WhatsApp-Domain",
-        "outbound": "WhatsApp"
-      },
-      {
         "rule_set": "Facebook-Domain",
         "outbound": "Facebook"
       },
@@ -742,18 +718,6 @@
       {
         "rule_set": "Microsoft-Domain",
         "outbound": "Microsoft"
-      },
-      {
-        "rule_set": "OKX-Domain",
-        "outbound": "Crypto"
-      },
-      {
-        "rule_set": "Bybit-Domain",
-        "outbound": "Crypto"
-      },
-      {
-        "rule_set": "Binance-Domain",
-        "outbound": "Crypto"
       },
       {
         "rule_set": "Youtube-Domain",
@@ -782,34 +746,6 @@
       {
         "rule_set": "Spotify-Domain",
         "outbound": "Spotify"
-      },
-      {
-        "rule_set": "Steam-Domain",
-        "outbound": "Steam"
-      },
-      {
-        "rule_set": "Epic-Domain",
-        "outbound": "Game"
-      },
-      {
-        "rule_set": "EA-Domain",
-        "outbound": "Game"
-      },
-      {
-        "rule_set": "Blizzard-Domain",
-        "outbound": "Game"
-      },
-      {
-        "rule_set": "UBI-Domain",
-        "outbound": "Game"
-      },
-      {
-        "rule_set": "Sony-Domain",
-        "outbound": "Game"
-      },
-      {
-        "rule_set": "Nintend-Domain",
-        "outbound": "Game"
       },
       {
         "rule_set": "Google-Domain",
@@ -854,10 +790,6 @@
       {
         "domain_suffix": "vo0.site",
         "outbound": "All-in-One.v1"
-      },
-      {
-        "rule_set": "Proxy-Domain",
-        "outbound": "国外"
       },
       {"rule_set": "geosite-geolocation-!cn", "outbound": "国外"},
       {
@@ -905,14 +837,14 @@
       "tag": "Claude-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Claude/Claude.srs",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list",
       "download_detour": "所有-手动"
     },
     {
       "tag": "Meta AI-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Facebook/Facebook.srs",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/MetaAi.list",
       "download_detour": "所有-手动"
     },
     {
@@ -958,13 +890,6 @@
       "download_detour": "所有-手动"
     },
     {
-      "tag": "WhatsApp-Domain",
-      "type": "remote",
-      "format": "source",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Whatsapp/Whatsapp.srs",
-      "download_detour": "所有-手动"
-    },
-    {
       "tag": "Facebook-Domain",
       "type": "remote",
       "format": "binary",
@@ -997,27 +922,6 @@
       "type": "remote",
       "format": "binary",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/microsoft.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "OKX-Domain",
-      "type": "remote",
-      "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/okx.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "Bybit-Domain",
-      "type": "remote",
-      "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/bybit.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "Binance-Domain",
-      "type": "remote",
-      "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/binance.srs",
       "download_detour": "所有-手动"
     },
     {
@@ -1070,55 +974,6 @@
       "download_detour": "所有-手动"
     },
     {
-      "tag": "Steam-Domain",
-      "type": "remote",
-      "format": "binary",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/steam.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "Epic-Domain",
-      "type": "remote",
-      "format": "source",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Epic/Epic.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "EA-Domain",
-      "type": "remote",
-      "format": "source",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/EA/EA.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "Blizzard-Domain",
-      "type": "remote",
-      "format": "source",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Blizzard/Blizzard.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "UBI-Domain",
-      "type": "remote",
-      "format": "source",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/UBI/UBI.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "Sony-Domain",
-      "type": "remote",
-      "format": "source",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Sony/Sony.srs",
-      "download_detour": "所有-手动"
-    },
-    {
-      "tag": "Nintend-Domain",
-      "type": "remote",
-      "format": "source",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Nintendo/Nintendo.srs",
-      "download_detour": "所有-手动"
-    },
-    {
       "tag": "Google-Domain",
       "type": "remote",
       "format": "binary",
@@ -1140,17 +995,10 @@
       "download_detour": "所有-手动"
     },
     {
-      "tag": "Proxy-Domain",
-      "type": "remote",
-      "format": "source",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Proxy/Proxy.srs",
-      "download_detour": "所有-手动"
-    },
-    {
       "tag": "Globe-Domain",
       "type": "remote",
       "format": "source",
-      "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Global/Global.srs",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list",
       "download_detour": "所有-手动"
     },
     { "tag": "geosite-geolocation-!cn", "type": "remote", "format": "binary", "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/geolocation-!cn.srs", "download_detour": "所有-手动" },
@@ -1180,6 +1028,13 @@
       "type": "remote",
       "format": "binary",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/private.srs",
+      "download_detour": "所有-手动"
+    },
+    {
+      "tag": "Block-Domain",
+      "type": "remote",
+      "format": "source",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Block.list",
       "download_detour": "所有-手动"
     }
   ]
