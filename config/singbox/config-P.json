@@ -8,7 +8,7 @@
       "external_controller": "0.0.0.0:9095",
       "external_ui": "ui",
       "secret": "",
-      "external_ui_download_url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
+      "external_ui_download_url": "https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip",
       "external_ui_download_detour": "🚀 节点选择",
       "default_mode": "rule"
     },
@@ -19,7 +19,7 @@
   
   "dns": {
     "servers": [
-      {"tag": "dns_direct", "address": ["223.5.5.5", "119.29.29.29"], "address_strategy": "ipv4_only", "strategy": "ipv4_only", "detour": "🎯 全球直连"},
+      {"tag": "dns_direct", "address": ["202.96.134.133", "202.96.128.166"], "address_strategy": "ipv4_only", "strategy": "ipv4_only", "detour": "🎯 全球直连"},
       {"tag": "dns_proxy", "address": ["https://dns.cloudflare.com/dns-query", "https://dns.google/dns-query"], "address_resolver": "dns_direct", "address_strategy": "ipv4_only", "strategy": "ipv4_only", "detour": "🚀 节点选择"},
       {"tag": "dns_block", "address": "rcode://name_error"}
     ],
@@ -79,10 +79,109 @@
   "outbound_providers": [
     {
       "type": "remote",
-      "tag": "qcy",
-      "path": "./qcy.json",
-      "download_url": "订阅地址",
-      "download_ua": "clash",
+      "tag": "红杏",
+      "path": "./红杏.json",
+      "download_url": "http://10.10.10.1:3008/T3B9dgzBzdRbBF8Aqx7P/download/%E7%BA%A2%E6%9D%8F%E4%BA%91?target=sing-box",
+      "download_ua": "sing-box",
+      "enable_healthcheck": true,
+      "healthcheck_url": "https://www.gstatic.com/generate_204",
+      "healthcheck_interval": "300s",
+      "download_detour": "🎯 全球直连"
+    },
+    {
+      "type": "remote",
+      "tag": "灵魂",
+      "path": "./灵魂.json",
+      "download_url": "http://10.10.10.1:3008/T3B9dgzBzdRbBF8Aqx7P/download/%E7%81%B5%E9%AD%82%E4%BA%91?target=sing-box",
+      "download_ua": "sing-box",
+      "enable_healthcheck": true,
+      "healthcheck_url": "https://www.gstatic.com/generate_204",
+      "healthcheck_interval": "300s",
+      "download_detour": "🎯 全球直连"
+    },
+    {
+      "type": "remote",
+      "tag": "归股",
+      "path": "./归股.json",
+      "download_url": "http://10.10.10.1:3008/T3B9dgzBzdRbBF8Aqx7P/download/%E5%BD%92%E8%82%A1%E4%BA%91?target=sing-box",
+      "download_ua": "sing-box",
+      "enable_healthcheck": true,
+      "healthcheck_url": "https://www.gstatic.com/generate_204",
+      "healthcheck_interval": "300s",
+      "download_detour": "🎯 全球直连"
+    },
+    {
+      "type": "remote",
+      "tag": "糖果",
+      "path": "./糖果.json",
+      "download_url": "http://10.10.10.1:3008/T3B9dgzBzdRbBF8Aqx7P/download/%E7%B3%96%E6%9E%9C%E4%BA%91?target=sing-box",
+      "download_ua": "sing-box",
+      "enable_healthcheck": true,
+      "healthcheck_url": "https://www.gstatic.com/generate_204",
+      "healthcheck_interval": "300s",
+      "download_detour": "🎯 全球直连"
+    },
+    {
+      "type": "remote",
+      "tag": "Thua",
+      "path": "./Thua.json",
+      "download_url": "http://10.10.10.1:3008/T3B9dgzBzdRbBF8Aqx7P/download/Thua?target=sing-box",
+      "download_ua": "sing-box",
+      "enable_healthcheck": true,
+      "healthcheck_url": "https://www.gstatic.com/generate_204",
+      "healthcheck_interval": "300s",
+      "download_detour": "🎯 全球直连"
+    },
+    {
+      "type": "remote",
+      "tag": "无界",
+      "path": "./无界.json",
+      "download_url": "http://10.10.10.1:3008/T3B9dgzBzdRbBF8Aqx7P/download/%E6%97%A0%E7%95%8C?target=sing-box",
+      "download_ua": "sing-box",
+      "enable_healthcheck": true,
+      "healthcheck_url": "https://www.gstatic.com/generate_204",
+      "healthcheck_interval": "300s",
+      "download_detour": "🎯 全球直连"
+    },
+    {
+      "type": "remote",
+      "tag": "牛逼",
+      "path": "./牛逼.json",
+      "download_url": "http://10.10.10.1:3008/T3B9dgzBzdRbBF8Aqx7P/download/%E7%89%9B%E9%80%BC?target=sing-box",
+      "download_ua": "sing-box",
+      "enable_healthcheck": true,
+      "healthcheck_url": "https://www.gstatic.com/generate_204",
+      "healthcheck_interval": "300s",
+      "download_detour": "🎯 全球直连"
+    },
+    {
+      "type": "remote",
+      "tag": "快猫",
+      "path": "./快猫.json",
+      "download_url": "http://10.10.10.1:3008/T3B9dgzBzdRbBF8Aqx7P/download/%E5%BF%AB%E7%8C%AB?target=sing-box",
+      "download_ua": "sing-box",
+      "enable_healthcheck": true,
+      "healthcheck_url": "https://www.gstatic.com/generate_204",
+      "healthcheck_interval": "300s",
+      "download_detour": "🎯 全球直连"
+    },
+    {
+      "type": "remote",
+      "tag": "火烧",
+      "path": "./火烧.json",
+      "download_url": "http://10.10.10.1:3008/T3B9dgzBzdRbBF8Aqx7P/download/%E7%81%AB%E7%83%A7%E4%BA%91?target=sing-box",
+      "download_ua": "sing-box",
+      "enable_healthcheck": true,
+      "healthcheck_url": "https://www.gstatic.com/generate_204",
+      "healthcheck_interval": "300s",
+      "download_detour": "🎯 全球直连"
+    },
+    {
+      "type": "remote",
+      "tag": "猫耳",
+      "path": "./猫耳.json",
+      "download_url": "http://10.10.10.1:3008/T3B9dgzBzdRbBF8Aqx7P/download/%E7%8C%AB%E8%80%B3%E4%BA%91?target=sing-box",
+      "download_ua": "sing-box",
       "enable_healthcheck": true,
       "healthcheck_url": "https://www.gstatic.com/generate_204",
       "healthcheck_interval": "300s",
